@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guillermo Caracuel</title>
-    <link>http://localhost:1300/</link>
+    <link>http://example.com/</link>
     <description>Recent content on Guillermo Caracuel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Todos los derechos reservados - 2015</copyright>
     <lastBuildDate>Thu, 15 Jan 2015 00:00:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1300/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>¿Quiénes somos?</title>
-      <link>http://localhost:1300/about/</link>
+      <link>http://example.com/about/</link>
       <pubDate>Thu, 15 Jan 2015 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1300/about/</guid>
+      <guid>http://example.com/about/</guid>
       <description>&lt;p&gt;Lorem ipsum blah blah blah.
 Que si smos muy buena gente&amp;hellip;. que si somos un monton&amp;hellip;
 Todos muy parcheados, que no nos perdemos ni una.
 Cerveza algo de musica otra vez cerveza y ya pues gin-tonics.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1300/images/patch.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://example.com/images/patch.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Birras !&lt;/p&gt;
 </description>
